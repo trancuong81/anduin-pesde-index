@@ -1,0 +1,6 @@
+api = "http://localhost:8080/"
+download = "{API_URL}/v1/packages/{PACKAGE}/{PACKAGE_VERSION}/{PACKAGE_TARGET}/archive"
+git_allowed = false
+other_registries_allowed = false
+wally_allowed = false
+max_archive_size = 4194304
