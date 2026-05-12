@@ -9,3 +9,15 @@ lib = "src/init.luau"
 
 ["1.0.0 lune".dependencies]
 core = [{ name = "anduin/dt_core", version = "^1.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+
+["2.0.0 lune"]
+published_at = "2026-05-12T19:41:07.909254553Z"
+description = "Carlyle CSA target table schema shared across all funds"
+license = "MIT"
+
+["2.0.0 lune".target]
+environment = "lune"
+lib = "src/init.luau"
+
+["2.0.0 lune".dependencies]
+core = [{ name = "anduin/dt_core", version = "^1.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
