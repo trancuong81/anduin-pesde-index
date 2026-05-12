@@ -1,0 +1,16 @@
+["1.0.0 lune"]
+published_at = "2026-05-12T14:28:56.422282381Z"
+description = "Carlyle GIOF2 CSA mapping - transforms source forms to CSA target"
+license = "MIT"
+
+["1.0.0 lune".target]
+environment = "lune"
+lib = "src/init.luau"
+
+["1.0.0 lune".dependencies]
+contact_form = [{ name = "anduin/carlyle_giof2_contact_form", version = "^1.0.0", index = "https://github.com/trancuong81/anduin-pesde-index", target = "lune" }, "standard"]
+core = [{ name = "anduin/dt_core", version = "^1.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+csa_table = [{ name = "anduin/carlyle_csa_table", version = "^1.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+feeder_form = [{ name = "anduin/carlyle_giof2_feeder_form", version = "^1.0.0", index = "https://github.com/trancuong81/anduin-pesde-index", target = "lune" }, "standard"]
+master_form = [{ name = "anduin/carlyle_giof2_master_form", version = "^1.0.0", index = "https://github.com/trancuong81/anduin-pesde-index", target = "lune" }, "standard"]
+w9_form = [{ name = "anduin/carlyle_giof2_w9_form", version = "^1.0.0", index = "https://github.com/trancuong81/anduin-pesde-index", target = "lune" }, "standard"]
