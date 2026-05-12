@@ -1,0 +1,11 @@
+["1.0.0 lune"]
+published_at = "2026-05-12T14:28:50.830059462Z"
+description = "Carlyle GIOF2 contact source form schema"
+license = "MIT"
+
+["1.0.0 lune".target]
+environment = "lune"
+lib = "src/init.luau"
+
+["1.0.0 lune".dependencies]
+core = [{ name = "anduin/dt_core", version = "^1.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
