@@ -1,0 +1,11 @@
+["2.0.0 lune"]
+published_at = "2026-05-12T19:59:04.287085801Z"
+description = "Carlyle GIOF2 PDF 15"
+license = "MIT"
+
+["2.0.0 lune".target]
+environment = "lune"
+lib = "src/init.luau"
+
+["2.0.0 lune".dependencies]
+core = [{ name = "anduin/dt_core", version = "^1.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
