@@ -51,3 +51,40 @@ pdf_18 = [{ name = "anduin/carlyle_giof2_pdf_18", version = "^2.0.0", index = "h
 pdf_19 = [{ name = "anduin/carlyle_giof2_pdf_19", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index", target = "lune" }, "standard"]
 pdf_20 = [{ name = "anduin/carlyle_giof2_pdf_20", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index", target = "lune" }, "standard"]
 w9_form = [{ name = "anduin/carlyle_giof2_w9_form", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index", target = "lune" }, "standard"]
+
+["3.0.0 lune"]
+published_at = "2026-05-13T04:41:04.653717258Z"
+description = "Carlyle GIOF2 CSA mapping - transforms source forms to CSA target"
+license = "MIT"
+
+["3.0.0 lune".target]
+environment = "lune"
+lib = "src/init.luau"
+
+["3.0.0 lune".dependencies]
+contact_form = [{ name = "anduin/carlyle_giof2_contact_form", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+core = [{ name = "anduin/dt_core", version = "^1.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+csa_table = [{ name = "anduin/carlyle_csa_table", version = "^1.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+feeder_form = [{ name = "anduin/carlyle_giof2_feeder_form", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+master_form = [{ name = "anduin/carlyle_giof2_master_form", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_01 = [{ name = "anduin/carlyle_giof2_pdf_01", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_02 = [{ name = "anduin/carlyle_giof2_pdf_02", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_03 = [{ name = "anduin/carlyle_giof2_pdf_03", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_04 = [{ name = "anduin/carlyle_giof2_pdf_04", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_05 = [{ name = "anduin/carlyle_giof2_pdf_05", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_06 = [{ name = "anduin/carlyle_giof2_pdf_06", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_07 = [{ name = "anduin/carlyle_giof2_pdf_07", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_08 = [{ name = "anduin/carlyle_giof2_pdf_08", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_09 = [{ name = "anduin/carlyle_giof2_pdf_09", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_10 = [{ name = "anduin/carlyle_giof2_pdf_10", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_11 = [{ name = "anduin/carlyle_giof2_pdf_11", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_12 = [{ name = "anduin/carlyle_giof2_pdf_12", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_13 = [{ name = "anduin/carlyle_giof2_pdf_13", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_14 = [{ name = "anduin/carlyle_giof2_pdf_14", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_15 = [{ name = "anduin/carlyle_giof2_pdf_15", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_16 = [{ name = "anduin/carlyle_giof2_pdf_16", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_17 = [{ name = "anduin/carlyle_giof2_pdf_17", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_18 = [{ name = "anduin/carlyle_giof2_pdf_18", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_19 = [{ name = "anduin/carlyle_giof2_pdf_19", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+pdf_20 = [{ name = "anduin/carlyle_giof2_pdf_20", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
+w9_form = [{ name = "anduin/carlyle_giof2_w9_form", version = "^2.0.0", index = "https://github.com/trancuong81/anduin-pesde-index" }, "standard"]
