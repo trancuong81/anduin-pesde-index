@@ -5,3 +5,11 @@ license = "MIT"
 ["1.0.0 lune".target]
 environment = "lune"
 lib = "src/init.luau"
+
+["1.1.0-rc.1 lune"]
+published_at = "2026-06-14T13:33:58.454312971Z"
+license = "MIT"
+
+["1.1.0-rc.1 lune".target]
+environment = "lune"
+lib = "src/init.luau"
