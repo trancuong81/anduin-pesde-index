@@ -1,0 +1,7 @@
+["1.0.0 lune"]
+published_at = "2026-06-14T13:33:54.768701595Z"
+license = "MIT"
+
+["1.0.0 lune".target]
+environment = "lune"
+lib = "src/init.luau"
