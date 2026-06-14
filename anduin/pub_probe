@@ -1,0 +1,10 @@
+["1.1607.0 lune"]
+published_at = "2026-06-14T17:16:12.657746958Z"
+license = "MIT"
+
+["1.1607.0 lune".target]
+environment = "lune"
+lib = "src/init.luau"
+
+["1.1607.0 lune".dependencies]
+pub_sibling = [{ name = "anduin/pub_sibling", version = "^1.1607.0", index = "https://github.com/trancuong81/anduin-pesde-index", target = "lune" }, "standard"]
