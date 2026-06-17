@@ -13,3 +13,11 @@ license = "MIT"
 ["2.133730.0 luau".target]
 environment = "luau"
 lib = "init.luau"
+
+["2.145535.0 luau"]
+published_at = "2026-06-17T07:55:39.066392554Z"
+license = "MIT"
+
+["2.145535.0 luau".target]
+environment = "luau"
+lib = "init.luau"
